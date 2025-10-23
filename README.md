@@ -39,7 +39,7 @@ It covers **login** and **adding products to the cart** on  👉 [https://rahuls
 Clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/Promo-Commerce-E2E-Tests-with-Playwright.git
+git clone https://github.com/Fatma-shehata123/Promo-Commerce-E2E-Tests-with-Playwright.git
 cd Promo-Commerce-E2E-Tests-with-Playwright
 ```
 Install dependencies:
